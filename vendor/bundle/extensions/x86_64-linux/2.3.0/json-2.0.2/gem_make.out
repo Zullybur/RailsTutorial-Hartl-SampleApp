@@ -1,0 +1,13 @@
+current directory: /home/matthewc/Documents/Stembolt/sample_app/vendor/bundle/gems/json-2.0.2/ext/json
+/usr/bin/ruby2.3 -r ./siteconf20160812-7106-n4ksy1.rb extconf.rb
+creating Makefile
+
+current directory: /home/matthewc/Documents/Stembolt/sample_app/vendor/bundle/gems/json-2.0.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/matthewc/Documents/Stembolt/sample_app/vendor/bundle/gems/json-2.0.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/matthewc/Documents/Stembolt/sample_app/vendor/bundle/gems/json-2.0.2/ext/json
+make "DESTDIR=" install

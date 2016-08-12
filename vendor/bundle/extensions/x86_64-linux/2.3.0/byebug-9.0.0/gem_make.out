@@ -1,0 +1,19 @@
+current directory: /home/matthewc/Documents/Stembolt/sample_app/vendor/bundle/gems/byebug-9.0.0/ext/byebug
+/usr/bin/ruby2.3 -r ./siteconf20160812-7106-hbmnxn.rb extconf.rb
+creating Makefile
+
+current directory: /home/matthewc/Documents/Stembolt/sample_app/vendor/bundle/gems/byebug-9.0.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/matthewc/Documents/Stembolt/sample_app/vendor/bundle/gems/byebug-9.0.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/matthewc/Documents/Stembolt/sample_app/vendor/bundle/gems/byebug-9.0.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20160812-7106-1aiwxim/byebug
